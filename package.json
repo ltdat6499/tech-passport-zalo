@@ -1,0 +1,26 @@
+{
+  "name": "koa-passport-zalo",
+  "version": "1.0.0",
+  "description": "Zalo authentication strategy for Passport and Node.js.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ltdat6499/passport-zalo.git"
+  },
+  "keywords": [
+    "zalo",
+    "passport",
+    "koa",
+    "koa-passport",
+    "oauth2"
+  ],
+  "author": "Lý Thành Đạt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltdat6499/passport-zalo/issues"
+  },
+  "homepage": "https://github.com/ltdat6499/passport-zalo#readme",
+  "dependencies": {
+    "zalo-sdk": "^2.0.4"
+  }
+}
